@@ -1,0 +1,13 @@
+São 	[ser] <fmc> <*> <vK> <mv> V PR 3P IND VFIN @FS-STA  #1->0
+nove 	[nove] <card> NUM M P @<SC  #2->1
+os 	[o] <artd> DET M P @>N  #3->4
+investigados 	[investigar] <n> <vH> V PCP M P @<SUBJ  #4->1
+de 	[de] <sam-> <np-close> PRP @N<  #5->4
+a 	[o] <-sam> <artd> DET F S @>N  #6->7
+Operação=Marquês 	[Operação=Marquês] <occ> <*> PROP F S @P<  #7->5
+incluindo 	[incluir] <clb> <mv> V GER @ICL-<ADVL  #8->1
+Vara 	[Vara] <cjt-head> <hum> <newlex> <*> PROP F S @<ACC  #9->8
+e 	[e] <co-acc> KC @CO  #10->9
+Sócrates 	[Sócrates] <cjt> <hum> <*> PROP M/F S @<ACC  #11->9
+</s>
+
