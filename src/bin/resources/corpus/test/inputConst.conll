@@ -1,0 +1,20 @@
+1    	O                        	o                        	PRON-DET  	DET|M|S        	(S*       	(FCL*     	(FCL(NP*       	-              	-         	*         
+2    	Model_X                  	Model_X                  	PROP      	M|S            	*         	*         	*)             	-              	-         	*         
+3    	vai                      	ir                       	V-FIN     	PR|3S|IND|VFIN 	*         	*         	(VP*)          	-              	ir        	(V*)      
+4    	de                       	de                       	PRP       	-              	*         	*         	(PP*           	-              	-         	*         
+5    	os                       	o                        	PRON-DET  	DET|M|P        	*         	*         	(ADJP*         	-              	-         	*         
+6    	zero                     	zero                     	NUM       	M|P            	*         	*         	*))            	-              	-         	*         
+7    	a                        	a                        	PRP       	-              	*         	*         	(PP*           	-              	-         	*         
+8    	os                       	o                        	PRON-DET  	DET|M|P        	*         	*         	(NP*           	-              	-         	*         
+9    	100                      	100                      	NUM       	M|P            	*         	*         	*              	-              	-         	*         
+10   	quilómetros              	quilómetro               	N         	M|P            	*         	*         	*))            	-              	-         	*         
+11   	por_hora                 	por_hora                 	ADV       	-              	*         	*         	(ADVP*)        	-              	-         	*         
+12   	tão                      	tão                      	ADV       	-              	*         	*         	(ADJP*         	-              	-         	*         
+13   	rápido                   	rápido                   	ADJ       	M|S            	*         	*         	*              	-              	-         	*         
+14   	como                     	como                     	PRP       	-              	*         	*         	(PP*           	-              	-         	*         
+15   	um                       	um                       	PRON-DET  	DET|M|S        	*         	*         	(NP*           	-              	-         	*         
+16   	Porsche_911              	Porsche_911              	PROP      	M|S            	*         	*         	*              	-              	-         	*         
+17   	Turbo                    	Turbo                    	PROP      	M|S            	*         	*         	*)))           	-              	-         	*         
+18   	32                       	32                       	NUM       	M|P            	*         	*         	(NP*           	-              	-         	*         
+19   	segundos                 	segundo                  	N         	M|P            	*)        	*)        	*))            	-              	-         	*         
+
